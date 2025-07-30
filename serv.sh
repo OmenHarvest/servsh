@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JAR_PATH="server/utilsdev-0.1.1.jar"
+JAR_PATH="[path here]"
 
 # Проверка, что файл .jar существует
 if [ ! -f "$JAR_PATH" ]; then
